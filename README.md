@@ -29,9 +29,8 @@
 
         <div align="center">
 
-            &nbsp;
 
-            <img align="center" src="https://stats.bezerra-lucas.com/api?username=bezerra-lucas&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="bezerra-lucas" />
+            <img align="center" src="https://stats.pedromdsn.com/api?username=bezerra-lucas&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="bezerra-lucas" />
 
         </div>
 
