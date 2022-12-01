@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas Bezerra</h1>
 <h3 align="center">
-  I am a 20 years old developer and curious about how things work.
+I'm a freelance web developer who never stops evolving.
 </h3>
 <br>
 <h2 align="center">My history</h2>
 <p align="center">
-  I started my programmer life with Java (mostly because of Minecraft), tried
-  Kotlin and soon got into JavaScript / TypeScript. 🪐
-</p>
-<p align="center">
-  NodeJs has been my partner for the last 3 year in the field of Web
-  Development.
+It all begins when I started programming with 10 years old, at the time I just wanted to do some cool web browser games because the evenings at the time were pretty boring. Since then, I dedicate my life to be a better designer and developer.
 </p>
 <br>
 <h2 align="center">Languages and Tools:</h2>
