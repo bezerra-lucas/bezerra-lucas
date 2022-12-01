@@ -2,6 +2,7 @@
 <h3 align="center">
   I am a 20 years old developer and curious about how things work.
 </h3>
+<br><br>
 <h2 align="center">My history</h2>
 <p align="center">
   I started my programmer life with Java (mostly because of Minecraft), tried
@@ -11,6 +12,7 @@
   NodeJs has been my partner for the last 3 year in the field of Web
   Development.
 </p>
+<br><br>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank">
@@ -214,6 +216,7 @@
       height="40"
     />
   </a>
+  <br><br>
   <a href="/">
     <div align="center">
       <img
@@ -223,6 +226,7 @@
       />
     </div>
   </a>
+  <br>
   <a href="/">
     <div align="center">
       <img
@@ -232,6 +236,7 @@
       />
     </div>
   </a>
+  <br>
   <a href="/">
     <div align="center">
       <img
